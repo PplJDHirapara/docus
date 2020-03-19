@@ -7,7 +7,7 @@ custom_edit_url: https://github.com/jd2455/docus/edit/master/docs/doc1.md
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
-## Lorem
+## Lorem Changes
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
 
