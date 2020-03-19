@@ -43,7 +43,7 @@ const siteConfig = {
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
-  editUrl: 'https://github.com/jd2455/docus/master/docs/',
+  editUrl: 'https://github.com/jd2455/docus/edit/master/docs/',
 
   // If you have users set above, you add it here:
   users,
